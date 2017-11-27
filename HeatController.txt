@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/source_I2CDevice.cpp.o ./Debug/HTU21DF.cpp.o ./Debug/source_httpserver.cpp.o ./Debug/source_HttpGetResponse.cpp.o
